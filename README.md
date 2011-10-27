@@ -4,6 +4,12 @@ Jamie Wright's Dot Files
 Installation
 ------------
 
+### Changing your shell ###
+  
+chsh -s /bin/zsh
+  
+
+
 Features
 --------
 
