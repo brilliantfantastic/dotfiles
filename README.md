@@ -6,7 +6,7 @@ Installation
 
 ### Changing your shell ###
 
-  chsh -s /bin/zsh
+	chsh -s /bin/zsh
 
 Features
 --------
