@@ -52,18 +52,5 @@ alias gc='git checkout'
 alias rs='rails server'
 alias be='bundle exec'
 
-
-# Nginx
-alias nginxconf='sudo vim /opt/nginx/conf/nginx.conf'
-
-
-# Postgresql
-alias pgstart='pg_ctl -D /usr/local/var/postgres -l logfile start'
-alias pgstop='pg_ctl -D /usr/local/var/postgres stop'
-
 # Watch the Rails development log
 alias dl='tail -f log/development.log'
-
-# Cd into Rev site directory, set up ruby, rails, and start mysql 
-# alias rev='cd ~/FormFx/rev;rvm use 1.8.7-p334;rvm gemset use rev;mysql.server start'
-# alias rvm-rev='rvm use 1.8.7-p334@rev'

@@ -11,6 +11,7 @@ Installation
 Features
 --------
 
-### Bash Shell Files ###
+### ZSH Shell File ###
 
-### ZSH Files ###
+* Places current git branch and staged file status within the shell prompt.
+* Adds aliases for git commands
